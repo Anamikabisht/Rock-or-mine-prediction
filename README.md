@@ -1,5 +1,6 @@
 
 Sonar Rock vs Mine Prediction Project
+
 Overview
 This project focuses on predicting whether an object detected by sonar is a rock or a mine using logistic regression. The dataset consists of various features extracted from sonar signals, and the goal is to classify them accurately into one of two classes: "Rock" or "Mine". After training the logistic regression model, it achieved a testing accuracy of 76% and a training accuracy of 83%.
 
